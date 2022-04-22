@@ -1,4 +1,4 @@
-busi,data,python,excel,engin,commun,scientist,statist,visual,spark
-data,learning,busi,sql,cloud,python,excel,scala,scientist,commun
-scientist,machin,machine,statist,python,learning,algorithm,busi,techniqu,data
-engin,pipelin,statist,aw,spark,python,hadoop,kafka,data,etl
+python,sql,statist,scientist,machine,learning,sourc,commun,analyt,big
+sql,engin,analyt,machine,interpret,scientist,spark,collect,powerbi,excel
+machin,machine,scientist,statist,python,nlp,regress,quantit,predict,learn
+pipelin,engin,spark,statist,cloud,python,big,aw,infrastructur,etl
